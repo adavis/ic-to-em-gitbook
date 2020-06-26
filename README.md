@@ -20,7 +20,7 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 ### Practice Exercises
 
 * [ ] Create a 30-60-90 day plan
-* [ ] 
+* [ ] Attend Engineering Team Leads meeting
 {% endtab %}
 
 {% tab title="Month 2 - Product" %}
@@ -33,7 +33,8 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 
 ### Practice Exercises
 
-* [ ] * [ ] 
+* [ ] Write the tickets for an entire Epic in the tracking system
+* [ ] Present a comparison of two related technologies
 {% endtab %}
 
 {% tab title="Month 3 - People" %}
@@ -48,7 +49,9 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 
 ### Practice Exercises
 
-* [ ] * [ ] 
+* [ ] Conduct a 1-on-1 with each person on the team
+* [ ] Provide constructive feedback to at least two people
+* [ ] Conduct a Hiring Manager phone screen
 {% endtab %}
 {% endtabs %}
 
