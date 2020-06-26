@@ -4,7 +4,10 @@
 
 ## 👣 Process
 
+* [Agile ceremonies](process/agile-ceremonies.md)
 * [Team communications](process/team-communications.md)
+* [Metrics for team success](process/metrics-for-team-success.md)
+* [Leading effective meetings](process/leading-effective-meetings.md)
 
 ## 🔨 Product
 
