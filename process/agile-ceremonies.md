@@ -8,13 +8,13 @@ The one thing that separates Agile from other approaches to software development
 
 * [Agile Book](https://www.jamesshore.com/Agile-Book)
 * [12 Principles Behind the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
-* [Tech Soft Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562)
 * [Extreme Programming Pocket Guide](https://amzn.to/2YIRr22)
 
 {% embed url="https://blog.buildo.io/are-you-writing-effective-user-stories-bcf3fad7183b" %}
 
 ### 🗣 Questions for discussion
 
-1. What is the difference between Scrum and Kanban?
+1. What is the difference between Scrum, Extreme Programming, and Kanban?
 2. Who should be in charge of writing a user story? And why?
-3. 
+3. What are the benefits of keeping software in a releasable state? 
+
