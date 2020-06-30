@@ -9,7 +9,8 @@ The one thing that separates Agile from other approaches to software development
 * [Agile Book](https://www.jamesshore.com/Agile-Book)
 * [Tech Soft Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562)
 * [Extreme Programming Pocket Guide](https://amzn.to/2YIRr22)
-* [Effective User Stories](https://blog.buildo.io/are-you-writing-effective-user-stories-bcf3fad7183b)
+
+{% embed url="https://blog.buildo.io/are-you-writing-effective-user-stories-bcf3fad7183b" %}
 
 ### Questions for discussion
 
