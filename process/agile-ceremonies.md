@@ -6,9 +6,9 @@ The one thing that separates Agile from other approaches to software development
 
 ### Materials
 
-* \[Agile Book\]\([https://www.jamesshore.com/Agile-Book](https://www.jamesshore.com/Agile-Book)\)
-* \[Tech Soft Skills: Effective Technical Communication\]\([https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562)\)
-* \[Extreme Programming Pocket Guide\]\([https://amzn.to/2YIRr22](https://amzn.to/2YIRr22)\)
+* [Agile Book](https://www.jamesshore.com/Agile-Book)
+* [Tech Soft Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562)
+* [Extreme Programming Pocket Guide](https://amzn.to/2YIRr22)
 
 ### Questions for discussion
 
