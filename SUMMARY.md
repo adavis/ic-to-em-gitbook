@@ -12,6 +12,9 @@
 ## 🔨 Product
 
 * [Understanding business priorities](product/understanding-business-priorities.md)
+* [Cross-team project initiatives](product/cross-team-project-initiatives.md)
+* [Writing documentation](product/writing-documentation.md)
+* [Understanding technical tradeoffs](product/understanding-technical-tradeoffs.md)
 
 ## 👫 People
 
