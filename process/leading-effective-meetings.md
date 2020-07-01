@@ -1,7 +1,5 @@
 # Leading effective meetings
 
-
-
  
 
 ### 📚 Materials

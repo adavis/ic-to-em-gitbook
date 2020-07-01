@@ -19,4 +19,8 @@
 ## 👫 People
 
 * [Weekly 1-on-1s](people/weekly-1-on-1s.md)
+* [Coaching versus mentoring](people/coaching-versus-mentoring.md)
+* [Hiring/Recruiting](people/hiring-recruiting.md)
+* [Onboarding](people/onboarding.md)
+* [Providing feedback](people/providing-feedback.md)
 

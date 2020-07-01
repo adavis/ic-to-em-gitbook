@@ -1,7 +1,5 @@
 # Writing documentation
 
-
-
  
 
 ### 📚 Materials
