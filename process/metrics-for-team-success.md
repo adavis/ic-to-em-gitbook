@@ -7,6 +7,8 @@ Peter Drucker is attributed with the statement, "If you can’t measure it, you 
 * [Accelerate](https://amzn.to/31zY09h), chapters 2 and 11
 * [The Manager's Path](https://amzn.to/31ySDXH), pages 115 - 118
 
+{% embed url="https://medium.com/onzo-tech/four-magic-numbers-for-measuring-software-delivery-55b1dd01eca" %}
+
 ### 🗣 Questions for discussion
 
 1. What metrics are useful for determining software delivery performance? And why?
