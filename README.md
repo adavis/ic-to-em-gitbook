@@ -12,9 +12,9 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 {% tab title="Month 1 - 👣Process" %}
 ### ✅ Topics
 
-* [ ] Agile ceremonies
+* [ ] [Agile ceremonies](process/agile-ceremonies.md)
 * [ ] Team communications
-* [ ] Metrics for team success
+* [ ] [Metrics for team success](process/metrics-for-team-success.md)
 * [ ] Leading effective meetings
 
 ### 🔑 Practice Exercises
