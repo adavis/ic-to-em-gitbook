@@ -1,6 +1,8 @@
 # Leading effective meetings
 
- 
+Collaboration is required for companies to do their best work. And meetings are the goto choice for doing so. But let’s be honest, how many meetings do you attend which could be summed up in a simple email?
+
+Meetings flop for a number of reasons. But the top three you’ll hear consistently are: scheduling a meeting last minute, not having a clear plan, and having too many people present. So what can we do to make meetings work for us, and not against us? Let's find out.
 
 ### 📚 Materials
 
