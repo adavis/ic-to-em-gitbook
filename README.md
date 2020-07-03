@@ -13,7 +13,7 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 ### ✅ Topics
 
 * [ ] [Agile ceremonies](process/agile-ceremonies.md)
-* [ ] Team communications
+* [ ] [Team communications](process/team-communications.md)
 * [ ] [Metrics for team success](process/metrics-for-team-success.md)
 * [ ] [Leading effective meetings](process/leading-effective-meetings.md)
 

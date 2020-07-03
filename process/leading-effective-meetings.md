@@ -17,3 +17,7 @@ Meetings flop for a number of reasons. But the top three you’ll hear consisten
 2. What are some techniques for keeping your meetings on track?
 3. How can you make sure that people are engaged during your meetings?
 
+{% hint style="success" %}
+Congratulations you've completed this section on **Process**
+{% endhint %}
+
