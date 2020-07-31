@@ -6,8 +6,9 @@ Meetings flop for a number of reasons. But the top three you’ll hear consisten
 
 ### 📚 Materials
 
-* [Tech Soft Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562)
+* [Tech Soft Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562) \[Paid\]
 * [The Making of a Manager](https://amzn.to/2VCueN6), chapter 6
+* [The Use of POWER for Meetings](https://assurity.nz/archives/the-use-of-power-for-meaningful-meetings/)
 
 {% embed url="https://thinkgrowth.org/how-to-run-incredible-team-meetings-cdf646fe2615" %}
 
