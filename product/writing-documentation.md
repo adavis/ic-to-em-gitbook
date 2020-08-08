@@ -12,5 +12,7 @@
 
 1. Before beginning to document anything, what should you think about?
 2. What's one useful approach for organizing the content of your technical documents?
-3. How can you overcome blockers to writing?
+3. How can you overcome mental blockers to writing?
+
+
 
