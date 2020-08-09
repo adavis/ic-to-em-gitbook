@@ -40,7 +40,7 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 {% tab title="Month 3 - 👫People" %}
 ### ✅ Topics
 
-* [ ] Weekly 1-on-1s
+* [ ] [Weekly 1-on-1s](people/weekly-1-on-1s.md)
 * [ ] Coaching versus mentoring
 * [ ] Hiring/Recruiting
 * [ ] Onboarding
