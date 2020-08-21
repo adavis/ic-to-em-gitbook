@@ -8,7 +8,7 @@
 
 ### 🗣 Questions for discussion
 
-1. Think about the best feedback you ever received. Why was it so meaningful?
+1. Think about the best feedback you've ever received. Why was it so meaningful?
 2. 
 {% hint style="success" %}
 Congratulations you've completed this section on **People**

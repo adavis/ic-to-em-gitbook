@@ -41,9 +41,9 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 ### ✅ Topics
 
 * [ ] [Weekly 1-on-1s](people/weekly-1-on-1s.md)
-* [ ] Hiring/Recruiting
-* [ ] Onboarding
-* [ ] Providing feedback
+* [ ] [Hiring/Recruiting](people/hiring-recruiting.md)
+* [ ] [Onboarding](people/onboarding.md)
+* [ ] [Providing feedback](people/providing-feedback.md)
 
 ### 🔑 Practice Exercises
 
