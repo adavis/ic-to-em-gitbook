@@ -1,6 +1,6 @@
 # Providing feedback
 
-
+One of the most common complaints from Engineers about their manager is that they don't receive enough feedback. We thrive on feedback to know what we're doing well and what areas we can grow in. Unlike school, work doesn't come with a clear cut rubric for pass or fail. Thus, providing consistent feedback is crucial for helping engineers to progress.
 
 ### 📚 Materials
 
