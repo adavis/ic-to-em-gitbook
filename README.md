@@ -23,21 +23,7 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 * [ ] Attend Engineering Team Leads meeting
 {% endtab %}
 
-{% tab title="Month 2 - 🔨Product" %}
-### ✅ Topics
-
-* [ ] Understanding business priorities
-* [ ] Cross-team project initiatives
-* [ ] Writing documentation
-* [ ] Understanding technical tradeoffs
-
-### 🔑 Practice Exercises
-
-* [ ] Write the tickets for an entire Epic in the tracking system
-* [ ] Present a comparison of two related technologies
-{% endtab %}
-
-{% tab title="Month 3 - 👫People" %}
+{% tab title="Month 2 - 👫People" %}
 ### ✅ Topics
 
 * [ ] [Weekly 1-on-1s](people/weekly-1-on-1s.md)
@@ -50,6 +36,20 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 * [ ] Conduct a 1-on-1 with each person on the team
 * [ ] Provide constructive feedback to at least two people
 * [ ] Conduct a Hiring Manager phone screen
+{% endtab %}
+
+{% tab title="Month 3 - 🔨Product" %}
+### ✅ Topics
+
+* [ ] Understanding business priorities
+* [ ] Cross-team project initiatives
+* [ ] Writing documentation
+* [ ] Understanding technical tradeoffs
+
+### **🔑 Practice Exercises**
+
+* [ ] Write the tickets for an entire Epic in the tracking system
+* [ ] Present a comparison of two related technologies
 {% endtab %}
 {% endtabs %}
 
