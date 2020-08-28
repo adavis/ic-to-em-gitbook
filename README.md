@@ -43,7 +43,7 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 
 * [ ] Understanding business priorities
 * [ ] Cross-team project initiatives
-* [ ] Writing documentation
+* [ ] [Writing documentation](product/writing-documentation.md)
 * [ ] Understanding technical tradeoffs
 
 ### **🔑 Practice Exercises**

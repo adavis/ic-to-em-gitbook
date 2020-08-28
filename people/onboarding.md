@@ -4,7 +4,7 @@ Onboarding a new person shouldn’t be left to chance. It’s an important oppor
 
 ### 📚 Materials
 
-* [The Manager's Path](https://amzn.to/31ySDXH), pages 50 - 52
+* [The Manager's Path](https://amzn.to/31ySDXH), chap. 4, pages 50 - 52
 * [Tech Soft Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-soft-skills-effective-technical-communication?u=2125562) \[Paid\]
 
 {% embed url="https://usefyi.com/onboarding-process/" %}
