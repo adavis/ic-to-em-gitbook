@@ -4,7 +4,8 @@
 
 ### 📚 Materials
 
-* 
+{% embed url="https://blog.pragmaticengineer.com/the-product-minded-engineer/" %}
+
 ### 🗣 Questions for discussion
 
 1. 
