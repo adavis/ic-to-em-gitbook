@@ -5,7 +5,7 @@ One of the most common complaints from Engineers about their manager is that the
 ### 📚 Materials
 
 * [The Making of a Manager,](https://amzn.to/2VCueN6) chap. 4, pgs. 83 - 103
-* [Crucial Accountability](https://amzn.to/2EkwaEx), chap.8, pgs. 2212 - 220
+* [Crucial Accountability](https://amzn.to/2EkwaEx), chap.8, pgs. 212 - 220
 
 {% embed url="https://larahogan.me/blog/feedback-equation/" %}
 
