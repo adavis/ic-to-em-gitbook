@@ -1,6 +1,6 @@
 # Cross-team project initiatives
 
-
+Managing projects with your own team is complicated enough. Managing cross-team projects is that times 10. But inevitably there will come a time where you'll be called upon to pick up this torch. It takes a significant amount of communication and organization to be successful.  In the following set of articles, you'll find some tips and techniques to assist you with making a go of it. 
 
 ### 📚 Materials
 
