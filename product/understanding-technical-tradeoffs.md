@@ -1,6 +1,6 @@
 # Understanding technical tradeoffs
 
-As Engineers, we often need to make decisions that are very precise in nature. This can make it a challenge for us to make tradeoffs when we're called on to meet project deadlines.
+As Engineers, we often need to make decisions that are very precise in nature. This can make it a challenge for us to make tradeoffs when we're called on to meet project deadlines. But what type of tradeoffs might we need to make? How can we make informed decisions? The following articles will help answer those questions.
 
 ### 📚 Materials
 
