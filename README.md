@@ -41,15 +41,16 @@ But what is an **Engineering Manager** anyway? If you check job postings the var
 {% tab title="Month 3 - 🔨Product" %}
 ### ✅ Topics
 
-* [ ] Understanding business priorities
-* [ ] Cross-team project initiatives
+* [ ] [Understanding business priorities](product/understanding-business-priorities.md)
+* [ ] [Cross-team project initiatives](product/cross-team-project-initiatives.md)
 * [ ] [Writing documentation](product/writing-documentation.md)
-* [ ] Understanding technical tradeoffs
+* [ ] [Understanding technical tradeoffs](product/understanding-technical-tradeoffs.md)
 
 ### **🔑 Practice Exercises**
 
 * [ ] Write the tickets for an entire Epic in the tracking system
 * [ ] Present a comparison of two related technologies
+* [ ] Create a Project Status report
 {% endtab %}
 {% endtabs %}
 
