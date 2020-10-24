@@ -1,4 +1,4 @@
-# ✨ Moving from an IC to an EM
+# ✨ Moving from an Individual Contributor to an Engineering Manager ✨
 
 As an engineering manager, I think of my job as spanning **3 Ps**: _people_, _process_, and _product._ We'll use this breakdown to form the structure of how we approach our efforts to learn about the role of an engineering manager. Each month we'll cover several topics that are all related to one of the **3 Ps**.
 

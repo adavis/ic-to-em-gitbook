@@ -1,6 +1,6 @@
 # Table of contents
 
-* [✨ Moving from an IC to an EM](README.md)
+* [✨ Moving from an Individual Contributor to an Engineering Manager ✨](README.md)
 
 ## 👣 Process
 
